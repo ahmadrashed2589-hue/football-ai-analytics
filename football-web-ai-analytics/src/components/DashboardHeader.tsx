@@ -8,7 +8,7 @@ import { Activity, ShieldAlert, Cpu, Server, Wifi, Globe } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
 
 import ahmadImg from '../assets/team/Ahmad_Hazaymeh_v2.jpeg';
-import amroImg from '../assets/team/Amro Al-Jarrah.jpeg';
+import amroImg from '../assets/team/Amro_Al_Jarrah_v2.jpeg';
 import khaledImg from '../assets/team/Khalad Abualwafa.jpeg';
 import osamhImg from '../assets/team/OSAMH AL SHRA\'H.jpeg';
 import omarImg from '../assets/team/Omar Dakhlallah.png';

@@ -21,3 +21,11 @@ FootballAnalyticsBackend/__pycache__/
 # OS Files
 .DS_Store
 Thumbs.db
+
+# Additional large data ignores
+bata_F1/
+**/bata_F1/
+*.zip
+*.mp4
+venv/
+**/venv/

@@ -7,7 +7,7 @@ import logoImage from '../../image/image.png';
 import leftLogoImage from '../../image/OIP.png';
 
 import ahmadImg from '../assets/team/Ahmad_Hazaymeh_v2.jpeg';
-import amroImg from '../assets/team/Amro Al-Jarrah.jpeg';
+import amroImg from '../assets/team/Amro_Al_Jarrah_v2.jpeg';
 import khaledImg from '../assets/team/Khalad Abualwafa.jpeg';
 import osamhImg from '../assets/team/OSAMH AL SHRA\'H.jpeg';
 import omarImg from '../assets/team/Omar Dakhlallah.png';
